@@ -1,23 +1,33 @@
-<div align="center">
+## Descripción Profesional
 
-# 🟩🟩 GIT PROFILE CARD 🟩🟩
-
-<img src="https://via.placeholder.com/120" width="120" style="border-radius:10px; border:4px solid #39ff14;" />
-
-# CARLOS GARCIA CARO  
-### @INGSISTEMAS  
-#### #174 IN THE CITY
-
-</div>
+Soy estudiante del **Instituto Tecnológico de Tijuana**, cursando la carrera de **Ingeniería en Sistemas Computacionales**.  
+Actualmente me encuentro en **6to semestre**, desarrollando habilidades en bases de datos, programación y desarrollo de software.
 
 ---
 
-## 📊 STATS
+## Tecnologías que utilizo
 
-| 💾 COMMITS | 📂 REPOS | ⭐ STARS | 🏆 KUDOS |
-|------------|----------|----------|----------|
-| **4,141**  | **81**   | **6**    | **0**    |
+- SQL Server  
+- MySQL  
+- C#  
 
 ---
 
-## 🟢 TECH GRID
+## Proyectos Destacados
+
+- 🔹 Desarrollo de aplicaciones en C# con Windows Forms  
+- 🔹 Creación y administración de bases de datos en SQL Server  
+- 🔹 Implementación de procedimientos almacenados y funciones 
+- 🔹 Simulaciones y proyectos académicos enfocados en optimización y lógica de programación  
+
+---
+
+## Estadísticas Académicas
+
+- 🧑🏻‍🎓 Alumno: Garcia Caro Carlos Alejandro
+- 🎓 Carrera: Ingeniería en Sistemas Computacionales  
+- 🏫 Institución: Instituto Tecnológico de Tijuana  
+- 📚 Semestre actual: 6to  
+- 💡 Enfoque: Desarrollo de software y bases de datos  
+
+---
