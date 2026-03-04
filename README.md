@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Carlos98522222/Carlos98522222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🟩🟩 GIT PROFILE CARD 🟩🟩
 
-Here are some ideas to get you started:
+<img src="https://via.placeholder.com/120" width="120" style="border-radius:10px; border:4px solid #39ff14;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# CARLOS GARCIA CARO  
+### @INGSISTEMAS  
+#### #174 IN THE CITY
+
+</div>
+
+---
+
+## 📊 STATS
+
+| 💾 COMMITS | 📂 REPOS | ⭐ STARS | 🏆 KUDOS |
+|------------|----------|----------|----------|
+| **4,141**  | **81**   | **6**    | **0**    |
+
+---
+
+## 🟢 TECH GRID
